@@ -29,6 +29,10 @@
     --fonte-android: 'Android', cursive;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 *{
     margin: 0px;
     padding: 0px;
